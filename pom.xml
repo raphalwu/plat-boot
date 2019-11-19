@@ -109,7 +109,7 @@
 		</profile>
 	</profiles>
 
-
+    <!--属性配置-->
 	<properties>
 		<java.version>1.8</java.version>
 		<file.encoding>UTF-8</file.encoding>
@@ -234,6 +234,7 @@
 		<aws-java-sdk.version>1.8.9.1</aws-java-sdk.version>
 	</properties>
 
+	<!--依赖管理-->
 	<dependencyManagement>
 		<dependencies>
 			<!--Spring Boot-->
